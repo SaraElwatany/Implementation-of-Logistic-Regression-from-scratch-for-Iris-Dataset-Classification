@@ -2,6 +2,7 @@
 
 ## About
 Implementation of the Logistic Regression model from scratch, where the model is then used for Iris Dataset Classification, and the model is then evaluated using the various evaluation metrics.
+In our implementation we used the softmax function to transform the output scores to probabilities & be used in our training & evaluation process.
 
 ![Screenshot 2024-02-12 220120](https://github.com/SaraElwatany/Implementation-of-Logistic-Regression-from-scratch-for-Iris-Dataset-Classification/assets/93448764/c43b9d71-5ee2-4628-86c2-3ec10c85accd)
 
